@@ -1,2 +1,4 @@
 # gitGithubPractice
-Git And Gibhub Practice Repository
+Git And Github Practice Repository
+
+- Playing with all the github options
